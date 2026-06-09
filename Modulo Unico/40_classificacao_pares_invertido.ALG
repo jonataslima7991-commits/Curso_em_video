@@ -2,19 +2,19 @@ Algoritmo "classificacao_pares_invertido"
 
 // Disciplina  : Algoritmo
 // Professor   : Gustavo Guanabara
-// Descrição   : Aula 11 – Estruturas de Repetição 3
-// Autor(a)    : Thaina Helena
-// Ano         : 2020
+// Descriï¿½ï¿½o   : Aula 11 ï¿½ Estruturas de Repetiï¿½ï¿½o 3
+// Autor(a)    : Jonatas Oliveira
+// Ano         : 2025
 
 Var
 
-   // Variáveis
+   // Variï¿½veis
    contador, numero: inteiro
 
 Inicio
 
-      // Retornar os números pares de uma determinada sequência numérica
-      Escreval("Digite um valor para ver todos os números pares antes dele: ")
+      // Retornar os nï¿½meros pares de uma determinada sequï¿½ncia numï¿½rica
+      Escreval("Digite um valor para ver todos os nï¿½meros pares antes dele: ")
       Leia(numero)
       Se(numero % 2 = 1) entao
                 numero <- numero - 1

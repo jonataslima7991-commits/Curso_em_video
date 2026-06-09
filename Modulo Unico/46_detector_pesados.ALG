@@ -2,13 +2,13 @@ Algoritmo  "detector_pesados"
 
 // Disciplina  : Algoritmo
 // Professor   : Gustavo Guanabara
-// Descrição   : Aula 12 – Procedimentos
-// Autor(a)    : Thaina Helena
-// Ano         : 2020
+// Descriï¿½ï¿½o   : Aula 12 ï¿½ Procedimentos
+// Autor(a)    : Jonatas Oliveira
+// Ano         : 2025
 
 Var
 
-   // Variáveis
+   // Variï¿½veis
    i : inteiro
    nome, pesado: caracter
    peso, maiorpeso: real

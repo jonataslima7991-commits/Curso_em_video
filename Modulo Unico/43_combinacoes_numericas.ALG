@@ -2,23 +2,22 @@ Algoritmo "combinacoes_numericas"
 
 // Disciplina  : Algoritmo
 // Professor   : Gustavo Guanabara
-// Descrição   : Aula 11 – Estruturas de Repetição 3
-// Autor(a)    : Thaina Helena
-// Ano         : 2020
-
+// Descriï¿½ï¿½o   : Aula 11 ï¿½ Estruturas de Repetiï¿½ï¿½o 3
+// Autor(a)    : Jonatas Oliveira
+// Ano         : 2025
 Var
 
-   // Variáveis
+   // Variï¿½veis
    contador, numero, soma, total: inteiro
 
 Inicio
 
-      // Retornar a quantidade de valores que estão entre 0 e 10
+      // Retornar a quantidade de valores que estï¿½o entre 0 e 10
       total <- 0
       soma <- 0
 
       Para contador <- 1 ate 6 faca
-           Escreval("Digite um número: ")
+           Escreval("Digite um nï¿½mero: ")
            Leia(numero)
            Se (numero >= 0) e (numero <= 10) entao
               total <- total + 1
@@ -27,6 +26,6 @@ Inicio
               soma <- soma + numero
            FimSe
       FimPara
-      Escreval("Dos 6 números digitados,", total, " está entre 0 e 10")
-      Escreval("A soma entre os números ímpares dessa sequência é:", soma)
+      Escreval("Dos 6 nï¿½meros digitados,", total, " estï¿½ entre 0 e 10")
+      Escreval("A soma entre os nï¿½meros ï¿½mpares dessa sequï¿½ncia ï¿½:", soma)
 Fimalgoritmo

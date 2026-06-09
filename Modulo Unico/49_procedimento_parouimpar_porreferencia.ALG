@@ -2,13 +2,13 @@ Algoritmo  "procedimento_parouimpar_porreferencia"
 
 // Disciplina  : Algoritmo
 // Professor   : Gustavo Guanabara
-// Descrição   : Aula 12 – Procedimentos
-// Autor(a)    : Thaina Helena
-// Ano         : 2020
+// Descriï¿½ï¿½o   : Aula 12 ï¿½ Procedimentos
+// Autor(a)    : Jonatas Oliveira
+// Ano         : 2025
 
 Var
 
-   // Variáveis
+   // Variï¿½veis
    numero: Inteiro
 
 Procedimento ParOuImpar(var valor: inteiro)
@@ -16,16 +16,16 @@ Inicio
 
       EscrevaL("Recebi o valor: ", valor)
       Se (valor % 2 = 0) entao
-         Escreval(valor, " é par")
+         Escreval(valor, " ï¿½ par")
       senao
-           Escreval(valor, " é impar")
+           Escreval(valor, " ï¿½ impar")
       FimSe
 FimProcedimento
 
 Inicio
 
       // Exibir o menu de cadastramento para o usuario
-      Escreva("Digite um número: ")
+      Escreva("Digite um nï¿½mero: ")
       Leia(numero)
       ParOuImpar(numero)
       

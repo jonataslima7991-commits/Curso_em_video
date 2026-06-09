@@ -24,12 +24,6 @@ Para ter acesso a este conteúdo, acesse a [**Playlist**](https://www.youtube.co
 Para apoiar este projeto, acesse [**Curso Em Vídeo**](https://www.cursoemvideo.com/apoie)  
 
 
-## 🚀 Tecnologias
-O projeto foi desenvolvido a partir das tecnologias:
-
-- *VisuAlg* 
-- *Scratch Studio*
-
 ## 📚 About
 *Dedicated repository to solving all the challenges proposed in Algorithm offered by **Curso Em Vídeo** plataform, taught by Professor and developer Gustavo Guanabara, in April 2017.*
 
@@ -37,12 +31,7 @@ O projeto foi desenvolvido a partir das tecnologias:
 *To support this project, visit [**Curso Em Vídeo**](https://www.cursoemvideo.com/apoie)*
 
 
-## 🚀 Technologies
-*The project was developed based on technologies:*
-
-- *VisuAlg 3.0*
-- *Scratch Studio*
 
 --------------
 
-Developed by 🍁 [**Thaina Helena**](https://github.com/Thainahelena)
+Developed by 🍁 [**Jonatas Oliveira**]
