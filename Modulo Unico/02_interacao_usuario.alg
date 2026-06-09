@@ -3,7 +3,7 @@ Algoritmo "interacao_usuario"
 // Disciplina  : Algoritmo
 // Professor   : Gustavo Guanabara
 // Descrição   : Aula 3 - Comando de Entrada e Operadores
-// Autor(a)    : Thaina Helena
+// Autor(a)    : Jonatas Oliveira
 // Ano         : 2020
 
 Var

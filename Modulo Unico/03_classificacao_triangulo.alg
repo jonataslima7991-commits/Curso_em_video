@@ -3,7 +3,7 @@ Algoritmo "classificacao_triangulo"
 // Disciplina  : Algoritmo
 // Professor   : Gustavo Guanabara
 // Descrição   : Aula 4 - Operadores Lógicos e Relacionais
-// Autor(a)    : Thaina Helena
+// Autor(a)    : Jonatas Oliveira
 // Ano         : 2020
 
 Var
