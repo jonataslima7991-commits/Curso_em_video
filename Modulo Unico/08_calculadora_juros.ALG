@@ -3,7 +3,7 @@ Algoritmo "calculadora_juros"
 // Disciplina  : Algoritmo
 // Professor   : Gustavo Guanabara
 // Descrição   : Aula 6 – Exercícios de Algoritmo Resolvidos
-// Autor(a)    : Thaina Helena
+// Autor(a)    : Jonatas Oliveira
 // Ano         : 2020
 
 Var

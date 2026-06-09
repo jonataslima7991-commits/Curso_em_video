@@ -3,7 +3,7 @@ Algoritmo "calculadora_mediaescolar3"
 // Disciplina  : Algoritmo
 // Professor   : Gustavo Guanabara
 // Descrição   : Aula 8 – Estruturas Condicionais 2
-// Autor(a)    : Thaina Helena
+// Autor(a)    : Jonatas Oliveira
 // Ano         : 2020
 
 Var

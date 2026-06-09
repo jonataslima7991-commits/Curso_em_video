@@ -3,7 +3,7 @@ Algoritmo "calculadora_idade_condicional"
 // Disciplina  : Algoritmo
 // Professor   : Gustavo Guanabara
 // Descrição   : Aula 7 – Estruturas Condicionais 1
-// Autor(a)    : Thaina Helena
+// Autor(a)    : Jonatas Oliveira
 // Ano         : 2020
 
 Var

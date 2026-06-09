@@ -3,7 +3,7 @@ Algoritmo "contador_decimal2"
 // Disciplina  : Algoritmo
 // Professor   : Gustavo Guanabara
 // Descrição   : Aula 11 – Estruturas de Repetição 3
-// Autor(a)    : Thaina Helena
+// Autor(a)    : Jonatas Oliveira
 // Ano         : 2020
 
 Var

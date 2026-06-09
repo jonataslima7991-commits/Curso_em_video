@@ -3,7 +3,7 @@ Algoritmo "contador_comusuario2"
 // Disciplina  : Algoritmo
 // Professor   : Gustavo Guanabara
 // Descrição   : Aula 9 – Estruturas de Repetição 1
-// Autor(a)    : Thaina Helena
+// Autor(a)    : Jonatas Oliveira
 // Ano         : 2020
 
 Var

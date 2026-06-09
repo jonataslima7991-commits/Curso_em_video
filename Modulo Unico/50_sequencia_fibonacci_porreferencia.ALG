@@ -3,7 +3,7 @@ Algoritmo  "sequencia_fibonacci_porreferencia"
 // Disciplina  : Algoritmo
 // Professor   : Gustavo Guanabara
 // Descrição   : Aula 12 – Procedimentos
-// Autor(a)    : Thaina Helena
+// Autor(a)    : Jonatas Oliveira
 // Ano         : 2020
 
 Var
